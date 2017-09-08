@@ -7,7 +7,7 @@ function testScroll(ev){
 }
 window.onscroll=testScroll
 
-var url = "https://api.nasa.gov/planetary/apod?api_key=UB0smoKvw5r3io2IQ61TEikHiSWxwofDKvAXHiK5";
+
 
 $.ajax({
   url: url,
